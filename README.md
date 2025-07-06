@@ -135,23 +135,6 @@ The system expects two CSV files in the `Data/` directory:
 - Device behavior optimization
 - Traffic source intelligence
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- Dataset provided by the organizing team
-- Inspiration from modern eCommerce personalization challenges
-- Built for the Hyper-Personalized Landing Page Generator hackathon
 
 ## 📞 Contact
 
