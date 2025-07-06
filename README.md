@@ -105,14 +105,7 @@ The system expects two CSV files in the `Data/` directory:
    pip install -r requirements.txt --upgrade
    ```
 
-2. **Memory Issues**
-   ```bash
-   # Reduce data sample size for testing
-   export DATA_SAMPLE_SIZE=10000
-   python src/landing_page_generator.py
-   ```
-
-3. **Dataset Not Found**
+2. **Dataset Not Found**
    ```bash
    # Verify dataset location
    ls Data/
