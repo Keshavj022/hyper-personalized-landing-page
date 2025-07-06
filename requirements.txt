@@ -1,0 +1,8 @@
+# Core Data Science Libraries
+pandas==2.3.0
+numpy==2.3.1
+matplotlib==3.10.3
+seaborn==0.13.2
+
+# Machine Learning Libraries
+scikit-learn==1.7.0
